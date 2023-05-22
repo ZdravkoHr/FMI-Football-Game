@@ -1,0 +1,15 @@
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\bin\Debug\net6.0\FootballApp.exe
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\bin\Debug\net6.0\FootballApp.deps.json
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\bin\Debug\net6.0\FootballApp.runtimeconfig.json
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\bin\Debug\net6.0\FootballApp.dll
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\bin\Debug\net6.0\FootballApp.pdb
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.csproj.AssemblyReference.cache
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.AssemblyInfoInputs.cache
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.AssemblyInfo.cs
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.dll
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\refint\FootballApp.dll
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.pdb
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\FootballApp.genruntimeconfig.cache
+C:\Users\ZdravkoHristov\source\repos\FootballApp\FootballApp\obj\Debug\net6.0\ref\FootballApp.dll
